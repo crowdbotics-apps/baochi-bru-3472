@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT baochi_bru_3472.wsgi:application
